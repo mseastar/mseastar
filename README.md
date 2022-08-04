@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ***
 
 [1]: https://t.me/mseastar
-[2]: mailto:inv.uralsh@gmail.com
+[2]: mailto:vagizullo99@gmail.com
 [3]: https://profile.intra.42.fr/users/mseastar
 
 
